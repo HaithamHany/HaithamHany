@@ -8,7 +8,7 @@ I'm a **Unity/XR Engineer** with 10+ years of experience building immersive inte
 
 ## 🚀 What I Do
 
-- 🎮 Build XR experiences using **Unity**, **C#**, **MQTT**, and custom toolchains  
+- 🎮 Build XR and interactive experiences using **Unity**, **C#**, **MQTT**, and custom toolchains  
 - 🤖 Explore **robotics** and **real-time systems** (MQTT, embedded computing)  
 - 🧠 Prototype with **ML Agents**, **CNNs**, and **generative AI** for intelligent content  
 - 🌐 Collaborate across creative, technical, and scientific domains  
