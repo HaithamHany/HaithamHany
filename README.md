@@ -20,7 +20,7 @@ I'm a **Unity/XR Engineer** with 10+ years of experience building immersive inte
 
 ### 🟣 [ReinforcementLearningAgent](https://github.com/HaithamHany/ReinforcementLearningAgent)
 Unity prototype using ML-Agents to train a reinforcement learning agent in a 3D simulation environment.  
-**Tech:** Unity · C# · ML-Agents · Reinforcement Learning · XR Simulation
+**Tech:** Unity · C# · ML-Agents · Reinforcement Learning · Simulation
 
 ---
 
@@ -32,7 +32,7 @@ Detects seismic events using a CNN trained on spectrograms of time-series data.
 
 ### 🔵 [Battle-Simulator-Prototype](https://github.com/HaithamHany/Battle-Simulator-Prototype)
 Unity-based AI simulator where autonomous agents compete using finite-state machines.  
-**Tech:** Unity · C# · FSM · AI Simulation · ShaderLab
+**Tech:** Unity · C# · FSM · AI Simulation
 
 ---
 
