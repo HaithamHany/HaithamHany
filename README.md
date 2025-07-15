@@ -1,3 +1,4 @@
+![Haitham Abdel-Salam – XR • AI • Robotics](./image.png)
 ## Hi there 👋
 
 # 👋 Hi, I'm Haitham Abdel-Salam
