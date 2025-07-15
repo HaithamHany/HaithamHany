@@ -1,4 +1,4 @@
---![Haitham Abdel-Salam – XR • AI • Robotics](./Image.png)
+<!--![Haitham Abdel-Salam – XR • AI • Robotics](./Image.png)-->
 ## Hi there 👋
 
 # 👋 Hi, I'm Haitham Abdel-Salam
