@@ -47,6 +47,10 @@ VR research prototype inspired by IEEE VR paper, exploring how plausibility can 
 Evaluates CNN and decision trees for venue classification using both supervised and semi-supervised learning.  
 **Tech:** Python · CNN · Semi-Supervised Learning · Scikit-learn
 
+### 🟠 [vhdl-four-bit-adder-multiregister-system](https://github.com/HaithamHany/vhdl-four-bit-adder-multiregister-system)
+A hardware-based 4-bit adder system with multiple registers, debounced button inputs, clock division, and seven-segment display output built using VHDL on the Basys3 FPGA board, with interactive input handling (switches/buttons) and real-time output display (LEDs/seven segment).  
+**Tech:** VHDL · FPGA · 
+
 ---
 
 ## 📚 Currently Learning
